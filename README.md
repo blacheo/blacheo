@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @blacheo
-- 👀 I’m interested in making languages
-- 🌱 I’m currently learning about compilers
 - 📫 How to reach me:
 - email : blaicheo@uwaterloo.ca
 
