@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blacheo
 - 📫 How to reach me:
-- email : blaicheo@uwaterloo.ca
+- email : brandon.lai.cheong@gmail.com
 
 <!---
 blacheo/blacheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
